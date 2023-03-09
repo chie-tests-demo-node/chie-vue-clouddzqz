@@ -1,0 +1,69 @@
+{
+  "name": "signature_web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "@types/qs": "^6.9.7",
+    "axios": "^1.3.2",
+    "core-js": "^3.8.3",
+    "dayjs": "^1.11.7",
+    "element-plus": "2.2.6",
+    "fabric": "^5.3.0",
+    "moment": "^2.29.4",
+    "pdfjs-dist": "^3.3.122",
+    "qs": "^6.11.0",
+    "register-service-worker": "^1.7.2",
+    "sass-resources-loader": "^2.2.5",
+    "vue": "^3.2.13",
+    "vue-class-component": "^8.0.0-0",
+    "vue-draggable-next": "^2.1.1",
+    "vue-router": "^4.0.3",
+    "vuedraggable": "^2.24.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/eslint-config-typescript": "^9.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "typescript": "~4.5.5"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended",
+      "@vue/typescript/recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 2020
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

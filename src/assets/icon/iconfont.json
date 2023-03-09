@@ -1,0 +1,86 @@
+{
+  "id": "3897675",
+  "name": "signAture_web",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "云电子签章",
+  "glyphs": [
+    {
+      "icon_id": "2569874",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "5387866",
+      "name": "加号_o",
+      "font_class": "jiahao_o",
+      "unicode": "eb78",
+      "unicode_decimal": 60280
+    },
+    {
+      "icon_id": "11519668",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "69",
+      "unicode_decimal": 105
+    },
+    {
+      "icon_id": "257406",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "11372787",
+      "name": "增加",
+      "font_class": "zengjia",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    },
+    {
+      "icon_id": "4767031",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "9545854",
+      "name": "plus",
+      "font_class": "plus",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "10168310",
+      "name": "logout",
+      "font_class": "logout",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "650809",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "18165267",
+      "name": "锁,密码,锁定",
+      "font_class": "lock-full",
+      "unicode": "e881",
+      "unicode_decimal": 59521
+    },
+    {
+      "icon_id": "31930310",
+      "name": "面性-盾牌",
+      "font_class": "mianxing-dunpai",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    }
+  ]
+}

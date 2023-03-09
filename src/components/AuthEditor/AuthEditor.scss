@@ -1,0 +1,19 @@
+.authEditor {
+    .searchHeader {
+        display: flex;
+
+        .searchContent {
+            width: 100%;
+        }
+
+        .searchBtn {
+            width: 180px;
+        }
+    }
+
+    .pagination {
+        display        : flex;
+        justify-content: right;
+        margin-top     : 8px;
+    }
+}

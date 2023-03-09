@@ -1,0 +1,76 @@
+.certMgr {
+    .header {
+        .el-form-item {
+            margin          : 0px;
+            margin-left     : 14px;
+            // margin-bottom: 12px;
+        }
+
+        // .el-input.el-input--suffix {
+        //     width: 190px;
+        // }
+
+        .timeSplit {
+            display    : inline-block;
+            margin-left: 12px;
+            position   : relative;
+            top        : -4px;
+            color      : #bbb;
+            font-size  : 12px;
+        }
+
+        .headerBox {
+            display    : flex;
+            align-items: center;
+
+            .searchContent {
+                width: 100%;
+            }
+
+            .searchBtn {
+                width     : 200px;
+                max-width : 200px;
+                min-width : 200px;
+                text-align: right;
+            }
+        }
+    }
+
+    .Content {
+        margin-top: 8px;
+
+        .exBtn {
+            margin-bottom: 12px;
+
+            .addicon{
+                .iconfont {
+                    color: #40b450;
+                }
+            }
+        }
+
+        .pagination {
+            margin-top     : 12px;
+            display        : flex;
+            justify-content: right;
+        }
+
+        .supportBottom {
+            height: 48px;
+        }
+
+        .a_blue {
+            color          : rgb(20, 118, 227);
+            cursor         : pointer;
+            word-break     : keep-all;
+            text-decoration: none;
+        }
+
+        .a_red {
+            color     : rgb(255, 0, 82);
+            cursor    : pointer;
+            word-break: keep-all;
+        }
+    }
+
+}
